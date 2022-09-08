@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, Welcome to here.</h1>
 <h3 align="center">I'm trying to be a Full Stack Web3 developer.</h3>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=ahmetenesdur&icon=2&color=6" alt="ahmetenesdur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetenesdur&label=Profile%20views&color=107069&style=flat" alt="ahmetenesdur" /> </p>
 
 - 🌱 I’m currently learning **React.js, Web3.js, Solidity**
 
