@@ -18,9 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discordlookup.com/user/114372874231349252" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" alt="Schwifty#7506" height="30" width="40" /></a>
-<a href="https://twitter.com/ahmetenesdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmetenesdur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmetenesdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetenesdur" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmetenesdur" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ahmetenesdur" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmetenesdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmetenesdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmetenesdur" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://exercism.org/profiles/ahmetenesdur" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism.org" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
