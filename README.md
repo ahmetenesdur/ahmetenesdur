@@ -5,11 +5,9 @@
 <h1 align="center">Hi 👋, My name is Enes.</h1>
 <h3 align="center">I'm trying to be a Full Stack Web3 developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetenesdur&label=Profile%20views&color=107069&style=flat" alt="ahmetenesdur" /></p>
+- 🌱 I’m currently learning **Next.js, Ether.js, Solidity**
 
-- 🌱 I’m currently learning **React.js, Web3.js, Solidity**
-
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **Ether.js**
 
 - 💬 Ask me about **JavaScript, Ethereum**
 
@@ -28,7 +26,6 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/452/ethereum.png" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+solidity-1324451490099123586.png" alt="solidity" width="36" height="36"/> </a>
