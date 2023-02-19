@@ -3,18 +3,17 @@
 <img src="https://giffiles.alphacoders.com/162/162472.gif">
 </div>
 <h1 align="center">Hi 👋, My name is Enes.</h1>
-<h3 align="center">I'm trying to be a Full Stack Web3 developer.</h3>
+<h3 align="center">Full Stack Web3 developer.</h3>
 
 - 🌱 I’m currently learning **Next.js, Ether.js, Solidity**
 
-- 🤝 I’m looking for help with **Ether.js**
 
-- 💬 Ask me about **JavaScript, Ethereum**
+- 💬 Ask me about **Ethereum, JavaScript**
 
 - 📫 How to reach me **ahmetenesdur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="32" height="32" /></a> <a href="https://exercism.org/profiles/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism.org" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="32" height="32" /></a> <a href="https://exercism.org/profiles/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism.org" width="32" height="32" /></a> <a href="https://codepen.io/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111296.png" alt="https://codepen.io/your-work" width="32" height="32" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -35,6 +34,5 @@
 <h3 align="left">Github Statistics:</h3>
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesdur&theme=tokyonight&hide_border=true" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetenesdur&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="ahmetenesdur" />
 </p>
 </body>
