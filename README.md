@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, My name is Enes.</h1>
 <h3 align="center">Full Stack Web3 developer.</h3>
 
-- 🌱 I’m currently learning **Next.js, Ether.js, Solidity**
+- 🌱 I’m currently learning **TypeScript, Next.js, Ether.js, Solidity**
 
 
 - 💬 Ask me about **Ethereum, JavaScript**
