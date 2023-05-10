@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, Ether.js, Solidity**
 
-
 - 💬 Ask me about **Ethereum, JavaScript**
 
 - 📫 How to reach me **ahmetenesdur@gmail.com**
@@ -36,6 +35,9 @@
 
 <h3 align="left">🔥 Github Statistics :</h3>
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesdur&theme=tokyonight&hide_border=true" width="480" height="180" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesdur&theme=tokyonight&hide_border=true" width="480" height="180" />
+</p>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetenesdur&theme=tokyonight&hide_border=true&layout=compact" width="480" height="180" />
 </p>
 </body>
