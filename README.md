@@ -7,7 +7,7 @@
 
 <h3 align="left">👩‍💻 About Me :</h3>
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Ether.js, Solidity**
+- 🌱 I’m currently learning **TypeScript, Next.js, Ethers.js, Solidity**
 
 - 💬 Ask me about **Ethereum, JavaScript**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https:https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -36,8 +36,5 @@
 <h3 align="left">🔥 Github Statistics :</h3>
 <p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesdur&theme=tokyonight&hide_border=true" />
-</p>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetenesdur&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 </body>
