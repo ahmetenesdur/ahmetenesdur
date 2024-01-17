@@ -29,7 +29,7 @@
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/452/ethereum.png" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+solidity-1324451490099123586.png" alt="solidity" width="36" height="36"/> </a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.23/_static/img/logo-dark.svg" alt="solidity" width="36" height="36"/> </a>
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/452/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
