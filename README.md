@@ -6,9 +6,9 @@
 
 ### 👩‍💻 About Me:
 
-I'm a Web3 Frontend Developer at Fibrous Finance, creating user-friendly blockchain interfaces using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity. I work closely with backend developers to ensure platform functionality and security.
+I'm a Web3 Frontend Developer at Fibrous Finance, creating user-friendly blockchain interfaces and dApps using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity.
 
-I'm pursuing a Bachelor of Engineering in Software Engineering at Kharkiv Polytechnic Institute. I've completed various online courses and bootcamps on web3 technologies, and have won awards in hackathons such as the Enerjisa Web3 Ideathon and BNB Chain Bootcamp. Passionate about exploring new technologies in the web3 space, I aim to become a full-stack web3 developer.
+I'm pursuing a Bachelor of Engineering in Software Engineering at Kharkiv Polytechnic Institute. I've completed various online courses and bootcamps on web3 technologies and have won awards in hackathons. My goal is to become a full-stack web3 developer.
 
 ### 🔗 Connect with Me:
 <p align="left">
