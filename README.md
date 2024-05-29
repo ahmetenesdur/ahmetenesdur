@@ -8,8 +8,6 @@
 
 I'm a Web3 Frontend Developer at Fibrous Finance, creating user-friendly blockchain interfaces and dApps using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity.
 
-I'm pursuing a Bachelor of Engineering in Software Engineering at Kharkiv Polytechnic Institute. I've completed various online courses and bootcamps on web3 technologies and have won awards in hackathons. My goal is to become a full-stack web3 developer.
-
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
