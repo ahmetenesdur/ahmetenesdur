@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
 
-###### 👩‍💻 About Me
+#### 👩‍💻 About Me
 
 Passionate Web3 Developer focused on building dApps and intuitive blockchain interfaces. Currently crafting seamless Web3 experiences at Fibrous Finance using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity.
 
-###### 🛠️ My Tech Stack
+#### 🛠️ My Tech Stack
 
 <p>
   <!-- Arduino -->
@@ -67,7 +67,7 @@ Passionate Web3 Developer focused on building dApps and intuitive blockchain int
   </a>
 </p>
 
-###### 🔗 Connect with Me
+#### 🔗 Connect with Me
 
 <p>
   <a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
@@ -77,7 +77,7 @@ Passionate Web3 Developer focused on building dApps and intuitive blockchain int
   <a href="https://exercism.org/profiles/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" width="36" height="36" alt="Exercism" /></a>
 </p>
 
-###### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmetenesdur&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
