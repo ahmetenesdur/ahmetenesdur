@@ -8,7 +8,7 @@ Passionate Web3 Developer focused on building dApps and intuitive blockchain int
 
 ### 🛠️ My Tech Stack
 
-<p align="left">
+<p>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="36" height="36"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -37,6 +37,6 @@ Passionate Web3 Developer focused on building dApps and intuitive blockchain int
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmetenesdur&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
