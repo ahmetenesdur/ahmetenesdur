@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-Passionate Web3 Developer focused on building dApps and intuitive blockchain interfaces. Currently crafting seamless Web3 experiences at Fibrous Finance using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity.
+Passionate Web3 Developer focused on building dApps and intuitive blockchain interfaces. Currently crafting seamless Web3 experiences using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity.
 
 ### 🛠️ My Tech Stack
 
