@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-Passionate Web3 Developer focused on building dApps and intuitive blockchain interfaces. Currently crafting seamless Web3 experiences using TypeScript, Next.js, Ethers.js, Starknet.js, and Solidity.
+Passionate Web3 Developer focused on building dApps and intuitive blockchain interfaces. Currently crafting seamless Web3 experiences using TypeScript, Next.js, Viem, Starknet.js, and Solidity.
 
 ### 🛠️ My Tech Stack
 
@@ -16,6 +16,8 @@ Passionate Web3 Developer focused on building dApps and intuitive blockchain int
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="36" height="36" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+    <a href="https://viem.sh/" target="_blank" rel="noreferrer"><img src="https://viem.sh/logo-dark-hug.svg" width="36" height="36" alt="Viem" /></a>
+  <a href="https://wagmi.sh" target="_blank" rel="noreferrer"><img src="https://wagmi.sh/logo-dark.svg" width="36" height="36" alt="Wagmi" /></a>
   <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers.js" /></a>
   <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" /></a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
@@ -38,5 +40,5 @@ Passionate Web3 Developer focused on building dApps and intuitive blockchain int
 ### 📊 GitHub Stats
 
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmetenesdur&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetenesdur&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></a>
 </p>
