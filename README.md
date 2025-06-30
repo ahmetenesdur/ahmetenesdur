@@ -4,7 +4,9 @@
 
 ### 👩‍💻 About Me
 
-Passionate Web3 Developer focused on building dApps and intuitive blockchain interfaces. Currently crafting seamless Web3 experiences using TypeScript, Next.js, Viem, Starknet.js, and Solidity.
+Passionate Full Stack Web3 Developer focused on building decentralized applications and intuitive blockchain interfaces.
+Currently crafting seamless Web3 experiences using TypeScript, Next.js, Viem, Starknet.js, and Solidity.
+Always exploring new tools and technologies in the Web3 ecosystem.
 
 ### 🛠️ My Tech Stack
 
