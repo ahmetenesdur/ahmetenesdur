@@ -1,6 +1,7 @@
 <div align="center"> <img src="https://giffiles.alphacoders.com/162/162472.gif" />
 <h1 align="center">Hi, I'm Enes</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
+</div>
 
 ### About Me
 
