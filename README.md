@@ -1,14 +1,14 @@
-<div align="center"> <img src="https://giffiles.alphacoders.com/162/162472.gif" alt="Hi"> </div> 
-<h1 align="center">Hi 👋, I'm Enes</h1>
+<div align="center"> <img src="https://giffiles.alphacoders.com/162/162472.gif" />
+<h1 align="center">Hi, I'm Enes</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
 
-### 👩‍💻 About Me
+### About Me
 
 Passionate Full Stack Web3 Developer focused on building decentralized applications and intuitive blockchain interfaces.
 Currently crafting seamless Web3 experiences using TypeScript, Next.js, Viem, Starknet.js, and Solidity.
 Always exploring new tools and technologies in the Web3 ecosystem.
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <p>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="36" height="36"/></a>
@@ -29,7 +29,7 @@ Always exploring new tools and technologies in the Web3 ecosystem.
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/452/unreal-engine.png" width="40" height="40" alt="Unreal Engine" /></a>
 </p>
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p>
   <a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
@@ -39,7 +39,7 @@ Always exploring new tools and technologies in the Web3 ecosystem.
   <a href="https://exercism.org/profiles/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" width="36" height="36" alt="Exercism" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetenesdur&exclude_days=Sun&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></a>
