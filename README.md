@@ -42,5 +42,5 @@ Always exploring new tools and technologies in the Web3 ecosystem.
 ### 📊 GitHub Stats
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetenesdur&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetenesdur&exclude_days=Sun&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></a>
 </p>
