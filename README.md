@@ -1,13 +1,13 @@
-<div align="center"> <img src="https://giffiles.alphacoders.com/162/162472.gif" />
-<h1 align="center">Hi, I'm Enes</h1>
+<div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1dDRjdGlpMnNhOGgwOWVjdGVibm90NWdqOG5laDdqZm9qc2I3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de2Bd0zXO07EIxwLj8/giphy.gif" />
+<h1 align="center">Welcome, I'm Enes</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
 </div>
 
 ### About Me
 
-Passionate Full Stack Web3 Developer focused on building decentralized applications and intuitive blockchain interfaces.
-Currently crafting seamless Web3 experiences using TypeScript, Next.js, Viem, Starknet.js, and Solidity.
-Always exploring new tools and technologies in the Web3 ecosystem.
+Full Stack Web3 Developer specializing in decentralized application development and blockchain interface design.
+Expert in building scalable Web3 solutions using modern technologies including TypeScript, Next.js, Viem, Starknet.js, and Solidity.
+Committed to delivering robust, user-friendly blockchain applications that bridge the gap between complex Web3 infrastructure and intuitive user experiences.
 
 ### My Tech Stack
 
@@ -36,9 +36,6 @@ Always exploring new tools and technologies in the Web3 ecosystem.
   <a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
   <a href="https://www.twitter.com/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" width="36" height="36" alt="Twitter" /></a>
-  <a href="https://www.hackerrank.com/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="36" height="36" alt="HackerRank" /></a>
-  <a href="https://exercism.org/profiles/ahmetenesdur" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" width="36" height="36" alt="Exercism" /></a>
-</p>
 
 ### GitHub Stats
 
