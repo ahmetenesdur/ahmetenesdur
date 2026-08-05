@@ -12,8 +12,3 @@
 Full Stack Web3 Developer focused on dApps, smart-contract integrations, and blockchain interfaces.
 I build with TypeScript, Next.js, Solidity, Viem, Wagmi, Starknet.js, Hono, and PostgreSQL, and ship on Vercel, Cloudflare, and Railway.
 I also use AI automation, MCP servers, AI SDKs, and coding-agent workflows for internal tools and faster iteration.
-
-### Connect with Me
-
-<a href="https://discord.com/users/114372874231349252" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator@main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a> <a href="https://www.linkedin.com/in/ahmetenesdur" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator@main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a> <a href="https://www.twitter.com/ahmetenesdur" target="_blank" rel="noreferrer"><img align="left" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" width="36" height="36" alt="Twitter" /></a>
-<br clear="both"/>
