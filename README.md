@@ -32,18 +32,10 @@ Merged PRs into [Handy](https://github.com/cjpais/Handy/pull/582) (Turkish local
 
 ### Stack
 
-**Languages & frameworks**
-
-<img src="https://skillicons.dev/icons?i=ts,js,solidity,rust,py,swift,react,nextjs,tailwind,nodejs&perline=10" alt="TypeScript, JavaScript, Solidity, Rust, Python, Swift, React, Next.js, Tailwind CSS, Node.js" />
-
-**Data, cloud & tooling**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,docker,aws,cloudflare,vercel,githubactions,vitest,git&perline=10" alt="PostgreSQL, SQLite, Supabase, Docker, AWS, Cloudflare, Vercel, GitHub Actions, Vitest, Git" />
-
-**Web3**
-
-<img src="https://img.shields.io/badge/Ethereum-242938?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /> <img src="https://img.shields.io/badge/Solana-242938?style=for-the-badge&logo=solana&logoColor=14F195" alt="Solana" /> <img src="assets/starknet.svg" alt="Starknet" /> <img src="assets/viem.svg" alt="Viem" /> <img src="https://img.shields.io/badge/Wagmi-242938?style=for-the-badge&logo=wagmi&logoColor=white" alt="Wagmi" /> <img src="https://img.shields.io/badge/Ethers.js-242938?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" /> <img src="https://img.shields.io/badge/WalletConnect-242938?style=for-the-badge&logo=walletconnect&logoColor=3B99FC" alt="WalletConnect" />
-
-**AI, backend & mobile**
-
-<img src="https://img.shields.io/badge/MCP-242938?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-242938?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" /> <img src="https://img.shields.io/badge/Hono-242938?style=for-the-badge&logo=hono&logoColor=E36002" alt="Hono" /> <img src="https://img.shields.io/badge/Drizzle-242938?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle" /> <img src="https://img.shields.io/badge/TanStack%20Query-242938?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" /> <img src="https://img.shields.io/badge/Expo-242938?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+- **Languages:** TypeScript, JavaScript, Solidity, Rust, Python, Swift, SQL
+- **Frontend & mobile:** React, Next.js, Tailwind CSS, React Native (Expo), SwiftUI
+- **Web3:** Ethereum/EVM, Solana, Starknet, Viem, Wagmi, Ethers.js, Hardhat, WalletConnect
+- **Backend:** Node.js, PostgreSQL, Supabase, Firebase, REST APIs, WebSockets
+- **AI:** AI agents, MCP servers, LLM APIs (OpenAI, Anthropic, Gemini), Vercel AI SDK
+- **Cloud & DevOps:** AWS, Cloudflare Workers, Vercel, Docker, GitHub Actions
+- **Testing:** Vitest, Playwright, React Testing Library
