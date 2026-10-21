@@ -32,4 +32,7 @@ Merged PRs into [Handy](https://github.com/cjpais/Handy/pull/582) (Turkish local
 
 ### Stack
 
-TypeScript · Next.js · React · Node.js · Starknet.js · Viem · Wagmi · Solana Kit · Anchor · Solidity · Cairo · PostgreSQL · Cloudflare Workers · AWS · Swift
+- **Frontend:** TypeScript · React · Next.js · Tailwind CSS · Zustand · TanStack Query
+- **Web3:** Viem · Wagmi · Starknet.js · Dynamic · WalletConnect
+- **Backend & AI:** Node.js · Hono · PostgreSQL · Drizzle · MCP SDK · Vercel AI SDK
+- **Infra & testing:** Cloudflare Workers · AWS · Docker · GitHub Actions · Vitest · Playwright
