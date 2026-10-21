@@ -32,10 +32,4 @@ Merged PRs into [Handy](https://github.com/cjpais/Handy/pull/582) (Turkish local
 
 ### Stack
 
-- **Languages:** TypeScript, JavaScript, Solidity, Rust, Python, Swift, SQL
-- **Frontend & mobile:** React, Next.js, Tailwind CSS, React Native (Expo), SwiftUI
-- **Web3:** Ethereum/EVM, Solana, Starknet, Viem, Wagmi, Ethers.js, Hardhat, WalletConnect
-- **Backend:** Node.js, PostgreSQL, Supabase, Firebase, REST APIs, WebSockets
-- **AI:** AI agents, MCP servers, LLM APIs (OpenAI, Anthropic, Gemini), Vercel AI SDK
-- **Cloud & DevOps:** AWS, Cloudflare Workers, Vercel, Docker, GitHub Actions
-- **Testing:** Vitest, Playwright, React Testing Library
+TypeScript, React, Next.js, Node.js, Tailwind CSS, React Native, Solidity, Viem, Wagmi, Ethers.js, Rust, Python, PostgreSQL, Docker, AWS, Cloudflare Workers, MCP and Vercel AI SDK.
