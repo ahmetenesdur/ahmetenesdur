@@ -3,13 +3,13 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1dDRjdGlpMnNhOGgwOWVjdGVibm90NWdqOG5laDdqZm9qc2I3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de2Bd0zXO07EIxwLj8/giphy.gif" alt="Developer banner" width="100%" />
 <h1 align="center">Welcome, I'm Enes</h1>
-<h3 align="center">Full Stack Web3 Developer</h3>
-<p align="center">DeFi trading apps · Wallets · Indexers · MCP servers for AI agents</p>
+<h3 align="center">Full-Stack Software Engineer</h3>
+<p align="center">Product Engineering · Applied AI · System Design</p>
 </div>
 
 ### About
 
-I build production DeFi end to end: trading interfaces, wallet integrations, indexers, smart contracts, MCP servers for AI agents and mobile apps.
+I build products end to end, mostly in DeFi: trading apps, wallet integrations, indexers, smart contracts, MCP servers for AI agents and mobile apps.
 I'm the lead frontend engineer at [Fibrous Finance](https://www.fibrous.finance), a multi-chain DEX aggregator on Starknet, Base, HyperEVM and Monad ($400M+ volume, 880K+ users).
 
 ### Selected work
