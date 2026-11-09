@@ -17,13 +17,13 @@ I'm the lead frontend engineer at [Fibrous Finance](https://www.fibrous.finance)
 | Project | What it is |
 | --- | --- |
 | [Fibrous trading app](https://app.fibrous.finance) | Swaps, batch swaps and Hyperliquid prediction markets in 11 languages, with 2,000+ tests. I wrote 98 of its 99 PRs. |
-| [FibX](https://www.fibrous.finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. In the Official MCP Registry, 5.5K+ npm downloads. |
+| [FibX](https://www.fibrous.finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. In the Official MCP Registry, 6K+ npm downloads. |
 | [Fiberscope](https://fiberscope.org) | Open-source analytics for CoW Protocol solvers. Its figures match CoW's own Dune dashboard. |
 | [StarkFi](https://starkfi.app) | Starknet DeFi toolkit: CLI, 51-tool MCP server, agent skills and a Telegram bot. Winner, Starkzap Developer Bundle Challenge V2. |
 | [Frenlock](https://frenlock.fun) | Co-founder. A Solana vault where friends hold the brake on your memecoins: Rust/Anchor program and Expo iOS/Android app, on the Solana dApp Store. |
 | [Esasen](https://esasen.com.tr) | A live Turkish digital newspaper I built alone, with a 31-tool MCP server for its newsroom. |
 | [Detent](https://detent.fit) | Watch-first strength logger in SwiftUI, live on the App Store. |
-| [LocAI](https://github.com/ahmetenesdur/locai) | AI localization CLI with 6 LLM providers. 1.9K+ npm downloads. |
+| [LocAI](https://github.com/ahmetenesdur/locai) | AI localization CLI with 6 LLM providers. 2K+ npm downloads. |
 | [Vercel → Cloudflare skill](https://github.com/ahmetenesdur/nextjs-vercel-to-cloudflare-skill) | Agent Skill with 31 traps from two production Next.js migrations to Cloudflare Workers. |
 
 ### Open source
