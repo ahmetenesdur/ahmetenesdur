@@ -17,7 +17,7 @@ I'm the lead frontend engineer at [Fibrous Finance](https://www.fibrous.finance)
 | Project | What it is |
 | --- | --- |
 | [Fibrous trading app](https://app.fibrous.finance) | Swaps, batch swaps and Hyperliquid prediction markets in 11 languages, with 2,000+ tests. I wrote 98 of its 99 PRs. |
-| [FibX](https://github.com/Fibrous-Finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. In the Official MCP Registry, 5.5K+ npm downloads. |
+| [FibX](https://www.fibrous.finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. In the Official MCP Registry, 5.5K+ npm downloads. |
 | [Fiberscope](https://fiberscope.org) | Open-source analytics for CoW Protocol solvers. Its figures match CoW's own Dune dashboard. |
 | [StarkFi](https://starkfi.app) | Starknet DeFi toolkit: CLI, 51-tool MCP server, agent skills and a Telegram bot. Winner, Starkzap Developer Bundle Challenge V2. |
 | [Frenlock](https://frenlock.fun) | Co-founder. A Solana vault where friends hold the brake on your memecoins: Rust/Anchor program and Expo iOS/Android app, on the Solana dApp Store. |
