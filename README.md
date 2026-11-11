@@ -20,7 +20,7 @@ At [Fibrous Finance](https://www.fibrous.finance), a multi-chain DEX aggregator 
 | [FibX](https://www.fibrous.finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. In the Official MCP Registry, 6K+ npm downloads. |
 | [Fiberscope](https://fiberscope.org) | Open-source analytics for CoW Protocol solvers. Its figures match CoW's own Dune dashboard. |
 | [StarkFi](https://starkfi.app) | Starknet DeFi toolkit: CLI, 51-tool MCP server, agent skills and a Telegram bot. Winner, Starkzap Developer Bundle Challenge V2. |
-| [Frenlock](https://frenlock.fun) | Co-founder. A Solana vault where friends hold the brake on your memecoins: Rust/Anchor program and Expo iOS/Android app, on the Solana dApp Store. |
+| [Frenlock](https://frenlock.fun) | Co-founder. A Solana vault where friends hold the brake on your memecoins: Rust/Anchor program and Expo iOS/Android app, on the Solana dApp Store. Honorable mention, CertiK track at Colosseum's Crypto World's Fair. |
 | [Esasen](https://esasen.com.tr) | A live Turkish digital newspaper I built alone, with a 33-tool MCP server for its newsroom. |
 | [Detent](https://detent.fit) | Watch-first strength logger in SwiftUI, live on the App Store. |
 | [LocAI](https://github.com/ahmetenesdur/locai) | AI localization CLI with 6 LLM providers. 2K+ npm downloads. |
