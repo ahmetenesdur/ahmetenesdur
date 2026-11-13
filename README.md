@@ -18,8 +18,8 @@ At [Fibrous Finance](https://www.fibrous.finance), a multi-chain DEX aggregator 
 | --- | --- |
 | [Fibrous trading app](https://app.fibrous.finance) | Swaps, batch swaps and Hyperliquid prediction markets in 11 languages, with 2,000+ tests. I wrote 111 of its 113 PRs. |
 | [FibX](https://www.fibrous.finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. Listed in the Official MCP Registry; 6K+ npm downloads. |
-| [Fiberscope](https://fiberscope.org) | Open-source analytics for CoW Protocol solvers. Its figures match CoW's own Dune dashboard. |
-| [StarkFi](https://starkfi.app) | Starknet DeFi toolkit: CLI, 51-tool MCP server, agent skills and a Telegram bot. Winner, Starkzap Developer Bundle Challenge V2. |
+| [Fiberscope](https://fiberscope.org) | Open-source analytics for CoW Protocol solvers ([source](https://github.com/Fibrous-Finance/fiberscope)). Its figures match CoW's own Dune dashboard. |
+| [StarkFi](https://starkfi.app) | Starknet DeFi toolkit: CLI, 51-tool MCP server, agent skills and a Telegram bot. [Week 1 winner](https://x.com/starkfiapp/status/2042561196201525752), Starkzap Developer Bounty Challenge V2. |
 | [Frenlock](https://frenlock.fun) | Co-founder. A Solana vault where friends hold the brake on your big memecoin withdrawals: Rust/Anchor program and Expo iOS/Android app; the app is on the Solana dApp Store. Honorable mention, CertiK track at Colosseum's Crypto World's Fair. |
 | [Esasen](https://esasen.com.tr) | Sole engineer. A live Turkish digital newspaper with a 33-tool MCP server for its newsroom. |
 | [Detent](https://detent.fit) | Watch-first strength logger in SwiftUI, live on the App Store. |
@@ -28,7 +28,7 @@ At [Fibrous Finance](https://www.fibrous.finance), a multi-chain DEX aggregator 
 
 ### Open source
 
-PRs merged into [Handy](https://github.com/cjpais/Handy/pull/582) (Turkish localization), [Starkzap SDK](https://github.com/keep-starknet-strange/starkzap/pulls?q=is%3Apr+author%3Aahmetenesdur) (gasToken option, ESM fix), [LayerAkira SDK](https://github.com/LayerAkira/akira-js/pull/10), [starknet-ecosystem.com](https://github.com/419Labs/starknet-ecosystem.com/pull/1145) and [eip5792.xyz](https://github.com/lukasrosario/eip-5792-site/pull/19).
+PRs merged into the [Starkzap SDK](https://github.com/keep-starknet-strange/starkzap/pulls?q=is%3Apr+author%3Aahmetenesdur) (gasToken option, ESM fix) and [Handy](https://github.com/cjpais/Handy/pull/582) (Turkish localization).
 
 ### Stack
 
