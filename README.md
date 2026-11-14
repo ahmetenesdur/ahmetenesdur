@@ -16,7 +16,7 @@ At [Fibrous Finance](https://www.fibrous.finance), a multi-chain DEX aggregator 
 
 | Project | What it is |
 | --- | --- |
-| [Fibrous trading app](https://app.fibrous.finance) | Swaps, batch swaps and Hyperliquid prediction markets in 11 languages, with 2,000+ tests. I wrote 111 of its 113 PRs. |
+| [Fibrous trading app](https://app.fibrous.finance) | Swaps, batch swaps and Hyperliquid prediction markets in 11 languages, with 1,700+ tests. I wrote 111 of its 113 PRs. |
 | [FibX](https://www.fibrous.finance/fibx) | Fibrous's CLI and MCP server for AI agents on Base, HyperEVM and Monad. Listed in the Official MCP Registry; 6K+ npm downloads. |
 | [Fiberscope](https://fiberscope.org) | Open-source analytics for CoW Protocol solvers ([source](https://github.com/Fibrous-Finance/fiberscope)). Its figures match CoW's own Dune dashboard. |
 | [StarkFi](https://starkfi.app) | Starknet DeFi toolkit: CLI, 51-tool MCP server, agent skills and a Telegram bot. [Week 1 winner](https://x.com/starkfiapp/status/2042561196201525752), Starkzap Developer Bounty Challenge V2. |
